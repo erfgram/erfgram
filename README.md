@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erfgram
 - 👀 I’m interested in Design and Python
 - 🌱 I’m currently learning Python
-- 📫 Reach me at hi@erfgram.ir
+- 📫 Reach me at hi@erfgram.xyz
 
 <!---
 erfgram/erfgram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
