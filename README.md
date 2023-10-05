@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @erfgram
-- 👀 I’m interested in Design and Python
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Erfan!
+- 👤 Multi-disciplined Designer and Developer
 - 📫 Reach me at hi@erfgram.xyz
 
 <!---
