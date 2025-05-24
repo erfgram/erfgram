@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erfan!
 - 👤 Multi-disciplined Designer and Developer
-- 📫 Reach me at hi@erfgram.xyz
+- 📫 Reach me at erfgram@gmail.com
 
 <!---
 erfgram/erfgram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
